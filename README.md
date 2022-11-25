@@ -32,14 +32,14 @@
 - [달록 GitHub Repository](https://github.com/woowacourse-teams/2022-dallog)
 - [달록 기술 블로그](https://dallog.github.io)
 
-|   Sprint    |                               Project                                |                 Presentation                  |
-| :---------: | :------------------------------------------------------------------: | :-------------------------------------------: |
-| 스프린트 12 | [Link](https://github.com/woowacourse-teams/2022-dallog/projects/15) | [최종 데모데이](https://youtu.be/qdQRV2U8Y6Y) |
-| 스프린트 11 | [Link](https://github.com/woowacourse-teams/2022-dallog/projects/14) |                       -                       |
-| 스프린트 10 | [Link](https://github.com/woowacourse-teams/2022-dallog/projects/12) |                 5차 데모데이                  |
-| 스프린트 9  | [Link](https://github.com/woowacourse-teams/2022-dallog/projects/11) |                       -                       |
-| 스프린트 8  | [Link](https://github.com/woowacourse-teams/2022-dallog/projects/10) | [4차 데모데이](https://youtu.be/29Q7xo68kk0)  |
-| 스프린트 7  | [Link](https://github.com/woowacourse-teams/2022-dallog/projects/9)  |                       -                       |
+|   Sprint    |                               Project                                |                        Presentation                         |
+| :---------: | :------------------------------------------------------------------: | :---------------------------------------------------------: |
+| 스프린트 12 | [Link](https://github.com/woowacourse-teams/2022-dallog/projects/15) |        [최종 데모데이](https://youtu.be/qdQRV2U8Y6Y)        |
+| 스프린트 11 | [Link](https://github.com/woowacourse-teams/2022-dallog/projects/14) |                              -                              |
+| 스프린트 10 | [Link](https://github.com/woowacourse-teams/2022-dallog/projects/12) | [5차 데모데이](https://www.youtube.com/watch?v=W5J49Z4qGPg) |
+| 스프린트 9  | [Link](https://github.com/woowacourse-teams/2022-dallog/projects/11) |                              -                              |
+| 스프린트 8  | [Link](https://github.com/woowacourse-teams/2022-dallog/projects/10) |        [4차 데모데이](https://youtu.be/29Q7xo68kk0)         |
+| 스프린트 7  | [Link](https://github.com/woowacourse-teams/2022-dallog/projects/9)  |                              -                              |
 
 ### 🐯 레벨 3: 팀 프로젝트
 
